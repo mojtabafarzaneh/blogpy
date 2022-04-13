@@ -1,6 +1,0 @@
-venv/
-
-#database
-db.sqlite3
-
-blog/migrations
