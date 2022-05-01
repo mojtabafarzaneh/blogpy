@@ -5,9 +5,9 @@ django-ckeditor==6.3.2
 django-filter==21.1
 django-js-asset==2.0.0
 djangorestframework==3.13.1
+gunicorn==20.1.0
 importlib-metadata==4.8.3
 Markdown==3.3.6
-psycopg2==2.7.7
 psycopg2-binary==2.9.3
 pycodestyle==2.8.0
 pytz==2022.1
